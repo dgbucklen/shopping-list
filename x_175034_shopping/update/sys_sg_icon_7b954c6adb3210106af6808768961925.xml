@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"e935","FontColor":"#7070b3","BackgroundColor":"#7070b3","Name":"icon-Cart"}</icon>
+        <name>icon-Cart</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-25 18:51:39</sys_created_on>
+        <sys_id>7b954c6adb3210106af6808768961925</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>icon-Cart</sys_name>
+        <sys_package display_value="Shopping List" source="x_175034_shopping">5fe004aadb3210106af680876896191d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">5fe004aadb3210106af680876896191d</sys_scope>
+        <sys_update_name>sys_sg_icon_7b954c6adb3210106af6808768961925</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-25 18:51:39</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>
